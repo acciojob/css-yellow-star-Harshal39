@@ -6,7 +6,7 @@
       width: 0px;
       height: 0px;
       border-right: 100px solid transparent;
-      border-bottom: 70px solid yellow;
+      border-bottom: 100px solid yellow;
       border-left: 100px solid transparent;
       transform: rotate(35deg);
       margin: 50px;
@@ -35,7 +35,7 @@
       width: 0px;
       height: 0px;
       border-right: 100px solid transparent;
-      border-bottom: 70px solid yellow;
+      border-bottom: 100px solid yellow;
       border-left: 100px solid transparent;
       transform: rotate(-70deg);
       content: '';
